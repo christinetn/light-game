@@ -40,7 +40,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![start_stop_func](https://user-images.githubusercontent.com/71248843/112253787-97484180-8c1c-11eb-914d-c931675101e8.gif)
+
+
 ![walkthrough](https://user-images.githubusercontent.com/71248843/112252839-fc029c80-8c1a-11eb-9968-239ec681d53a.gif)
+
+
+![check_game_over](https://user-images.githubusercontent.com/71248843/112253795-9c0cf580-8c1c-11eb-9af4-0a94a1bf6f66.gif)
 
 
 
