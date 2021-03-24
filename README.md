@@ -40,6 +40,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![walkthrough](https://user-images.githubusercontent.com/71248843/112252839-fc029c80-8c1a-11eb-9968-239ec681d53a.gif)
+
+
 
 
 ## Reflection Questions
